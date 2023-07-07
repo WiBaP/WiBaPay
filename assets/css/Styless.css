@@ -1,0 +1,95 @@
+.my-font {
+  font-family: 'Kanit', sans-serif;
+  color: white;
+}
+
+body {
+  background-color: black;
+}
+
+.titulo {
+  font-size: 40px;
+  font-family: 'Kanit', sans-serif;
+}
+
+.menuzin {
+  color: white;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.7s;
+}
+
+.menuzin:hover {
+  color: white;
+  border-bottom: 1px solid white;
+}
+
+.drop {
+  background-color: var(--bs-black);
+}
+
+label {
+  color: white;
+}
+
+.criar {
+  color: white;
+}
+
+button {
+  background-color: black;
+  color: white;
+  border-color: white; 
+}
+
+.pr1:hover {
+  border-bottom-color: white;
+}
+
+.menuzin1 {
+  color: white;
+}
+
+.menuzin1:hover {
+  background-color: white;
+  color: black;
+}
+
+.bot1 {
+  border-color: var(--bs-light);
+  color: var(--bs-light);
+}
+
+.bot1:hover {
+  background-color: var(--bs-light);
+  color: black;
+}
+
+.enc {
+  color: var(--bs-light);
+}
+
+.bot2 {
+  border-color: var(--bs-light);
+  color: var(--bs-light);
+  font-size: 30px;
+}
+
+.bot2:hover {
+  background-color: var(--bs-light);
+  color: black;
+}
+
+.img1 {
+  width: auto; /* Defina a largura desejada */
+  height: 100px; /* A altura será ajustada automaticamente de acordo com a proporção da imagem */
+}
+
+.img2 {
+  width: auto; /* Defina a largura desejada */
+  height: 150px; /* A altura será ajustada automaticamente de acordo com a proporção da imagem */
+}
+
+.img3 {
+  width: auto; /* Defina a largura desejada */
+  height: 100px; /* A altura será ajustada automaticamente de acordo com a proporção da imagem */
+}
